@@ -1,2 +1,26 @@
-# Entwicklung-eines-CRM--und-HRM-Systems-zur-digitalen-Verwaltung-von-Kunden--und-Mitarbeiterdaten
-Entwicklung eines maßgeschneiderten Kunden- &amp; Mitarbeiterverwaltungssystems mit Python und MySQL zur Optimierung interner Datenprozesse. Die Software bildet den vollen CRUD-Lebenszyklus ab, setzt auf ein relationales Datenbankkonzept und wurde durch systematische Funktionstests validiert.
+📌 Projektbeschreibung
+
+Entwicklung eines maßgeschneiderten Mitarbeiter- und Kundenverwaltungssystems zur Optimierung interner Datenprozesse. Das System wurde programmatisch an eine relationale Datenbank angebunden, um den vollständigen CRUD-Lebenszyklus von Datensätzen abzubilden.
+🧩 Kerninhalte des Projekts
+
+    💻 Anwendungsentwicklung: Konzeption und Programmierung der Verwaltungslogik mittels Python.
+
+    🗄️ Datenbank-Anbindung: Integration einer performanten MySQL-Datenbank zur persistenten Datenspeicherung.
+
+    🔄 CRUD-Operationen: Implementierung von Funktionen zum Erfassen (Create), Abrufen (Read), Updaten (Update) und Löschen (Delete) von Stamm- und Bewegungsdaten.
+
+    📊 Datenmodellierung: Strukturierter Entwurf des zugrundeliegenden Datenbankkonzepts (Tabellenstrukturen, Primär- und Fremdschlüssel).
+
+    🔍 Qualitätssicherung: Durchführung systematischer Funktionstests zur Validierung der Code- und Abfrage-Integrität.
+
+    💼 Business-Prozesse: Professionelle Durchführung von Kundenberatung, abschließender Kundenpräsentation und lückenloser technischer Dokumentation.
+
+🛠️ Technologiestack & Konzepte
+
+    🐍 Programmiersprachen: Python • PowerShell
+
+    🗄️ Datenbanken: MySQL • Relationales Datenbankdesign
+
+    ⚙️ Paradigmen: CRUD • API/Datenbank-Konnektivität
+
+    📦 Qualitätsmanagement: Funktionstests • Technische Dokumentation
